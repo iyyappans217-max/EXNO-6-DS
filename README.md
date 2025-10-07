@@ -130,6 +130,14 @@ plt.show()
 ```
 
 # OUTPUT
-![alt text](<download (1).png>)![alt text](<download (2).png>) ![alt text](<download (3).png>) ![alt text](<download (4).png>) ![alt text](<download (5).png>) ![alt text](<download (6).png>) ![alt text](<download (7).png>) ![alt text](<download (8).png>) ![alt text](download.png)
+![alt text](<download (1).png>)
+![alt text](<download (2).png>) 
+![alt text](<download (3).png>)
+ ![alt text](<download (4).png>) 
+ ![alt text](<download (5).png>) 
+ ![alt text](<download (6).png>) 
+ ![alt text](<download (7).png>) 
+ ![alt text](<download (8).png>) 
+ ![alt text](download.png)
 # Result:
-"The visualization displays the data patterns, relationships, and trends clearly, making it easier to identify correlations, outliers, and distributions.
+"The visualization displays the data patterns, relationships, and trends clearly, making it easier to identify correlations, outliers, and distributions."
